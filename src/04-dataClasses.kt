@@ -38,6 +38,6 @@ fun main() {
     println(user.copy("Silvio")) // 8 faz a cópia mudando de Alex p Silvio (Como não identificou o atributo, foi pelo primeiro que é name)
     println(user.copy(id = 8)) // 9 faz a cópia mudando o id para 8
 
-    println("name = ${user.component1()}")                 // 10
+    println("name = ${user.component1()}") // 10 - atributos pela ordem de declaração
     println("id = ${user.component2()}")
 }
