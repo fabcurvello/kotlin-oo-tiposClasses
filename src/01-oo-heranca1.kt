@@ -1,3 +1,5 @@
+//https://play.kotlinlang.org/byExample/01_introduction/07_Inheritance
+
 open class Dog {                // 1 - open para poder ser superclasse de outra classe
     open fun sayHello() {       // 2 - open para poder ser utilizada em uma subclasse
         println("wow wow!")
