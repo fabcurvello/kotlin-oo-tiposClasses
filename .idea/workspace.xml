@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfe1e646-1eda-42e4-820a-6c42b15325c4" name="Changes" comment="Data Classes">
-      <change afterPath="$PROJECT_DIR$/src/05-enumClasses1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/04-dataClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/04-dataClasses.kt" afterDir="false" />
+    <list default="true" id="bfe1e646-1eda-42e4-820a-6c42b15325c4" name="Changes" comment="Enum Classes">
+      <change afterPath="$PROJECT_DIR$/src/05-enumClasses2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +39,14 @@
     "Kotlin._03_oo_heranca3Kt.executor": "Run",
     "Kotlin._04_dataClassesKt.executor": "Run",
     "Kotlin._05_enumClasses1Kt.executor": "Run",
+    "Kotlin._05_enumClasses2Kt.executor": "Run",
+    "Kotlin._05_enumClassesKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin._05_enumClasses2Kt">
     <configuration name="_05_enumClasses1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_05_enumClasses1Kt" />
       <module name="kotlin-oo-tiposClasses" />
@@ -52,8 +54,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_05_enumClasses2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05_enumClasses2Kt" />
+      <module name="kotlin-oo-tiposClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._05_enumClasses2Kt" />
         <item itemvalue="Kotlin._05_enumClasses1Kt" />
       </list>
     </recent_temporary>
@@ -107,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718661142954</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Enum Classes">
+      <option name="closed" value="true" />
+      <created>1718661594730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718661594730</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +134,7 @@
     <MESSAGE value="Herança com construtor parametrizado" />
     <MESSAGE value="Herança - Construtor passando argumentos para a superclasse" />
     <MESSAGE value="Data Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Classes" />
+    <MESSAGE value="Enum Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enum Classes" />
   </component>
 </project>
