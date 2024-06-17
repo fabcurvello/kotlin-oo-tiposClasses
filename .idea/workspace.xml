@@ -47,14 +47,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin._10_objectKeyword3Kt">
-    <configuration name="_05_enumClasses1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05_enumClasses1Kt" />
-      <module name="kotlin-oo-tiposClasses" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._11_objectKeyword4Kt">
     <configuration name="_06_enumClasses2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_06_enumClasses2Kt" />
       <module name="kotlin-oo-tiposClasses" />
@@ -83,13 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_11_objectKeyword4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_objectKeyword4Kt" />
+      <module name="kotlin-oo-tiposClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._11_objectKeyword4Kt" />
         <item itemvalue="Kotlin._10_objectKeyword3Kt" />
         <item itemvalue="Kotlin._09_objectKeyword2Kt" />
         <item itemvalue="Kotlin._07_sealedClassesKt" />
         <item itemvalue="Kotlin._06_enumClasses2Kt" />
-        <item itemvalue="Kotlin._05_enumClasses1Kt" />
       </list>
     </recent_temporary>
   </component>
